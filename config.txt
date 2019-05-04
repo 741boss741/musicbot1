@@ -3,4 +3,4 @@ prefix=!
 game=Break | !play
 stayinchannel=true
 songinstatus=false
-token=NTYwODcyMDk4MzE1MzcwNTI3.XM3FqQ.z6WCs76zsLMbDpUYDlDhTLyYjdY
+token=NTcyNDE0NjUzODU5MTAyNzIw.XM3rnA.ehlJfPGGXPY0Od2eIVC8wkUBpf4
